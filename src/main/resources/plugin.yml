@@ -1,0 +1,6 @@
+name: SyncPlayersFoodLevel
+version: '${project.version}'
+main: cn.jackcraft.syncplayersfoodlevel.SyncPlayersFoodLevel
+load: STARTUP
+authors: [imJack_]
+website: https://github.com/JackCraftTeam/SyncPlayersFoodLevel
