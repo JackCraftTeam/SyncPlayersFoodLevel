@@ -17,7 +17,7 @@ public final class SyncPlayersFoodLevel extends JavaPlugin {
     }
     @Override
     public void onDisable() {
-        HandlerList.unregisterAll((Plugin) this);
+        HandlerList.unregisterAll(this);
     }
 
     public static void syncFoodLevel(Player player, int foodLevel) {
